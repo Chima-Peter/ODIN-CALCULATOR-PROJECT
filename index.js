@@ -250,7 +250,6 @@ equalBtn.addEventListener('click', () => {
         }
         else {
             operand = '';
-            alert(prevOperation.textContent)
             currentOperation.textContent = prevOperation.textContent;
         }
     } else {
