@@ -3,6 +3,7 @@
     src: url(../font-family/Roboto-Light.ttf)
 }
 body {
+    touch-action: manipulation;
     background-color: #FCB31B;
     padding-top: 5%;
     display: flex;
